@@ -41,5 +41,5 @@ weight = 5
 
 # Biography
 
-Carleton Coffrin is a staff scientist in Los Alamos National Laboratory's [Advanced Network Science Imitative](https://lanl-ansi.github.io/).  His research interests focus on how optimization algorithms can be applied to applications on infrastructure networks.  His background spans many forms of optimization including mathematical programing, constraint programming, and local search.  Recently Carleton has been exploring online learing via open-online courses and youtube videos as well was novel computing archectures such as, quantum computers, nuromorphic computers and memristors.
+Carleton Coffrin is a staff scientist in Los Alamos National Laboratory's [Advanced Network Science Initiative](https://lanl-ansi.github.io/).  His research interests focus on how optimization algorithms can be applied to applications on infrastructure networks.  His background spans many forms of optimization including mathematical programing, constraint programming, and local search.  Recently Carleton has been exploring online learning via open-online courses and youtube videos as well was novel computing architectures such as, quantum computers, neuromorphic computers and memristors.
 
