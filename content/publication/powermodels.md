@@ -1,6 +1,6 @@
 +++
 title = "PowerModels.jl: An Open-Source Framework for Exploring Power Flow Formulations"
-date = 2017-11-06T00:00:00
+date = 2018-06-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Carleton Coffrin", "Russell Bent", "Kaarthik Sundar", "Yeesian Ng", "Miles Lubin"]
